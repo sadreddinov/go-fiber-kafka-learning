@@ -1,4 +1,4 @@
-module github.com/sadreddinov/go-kafka-learning
+module github.com/sadreddinov/go-fiber-kafka-learning
 
 go 1.21.0
 
